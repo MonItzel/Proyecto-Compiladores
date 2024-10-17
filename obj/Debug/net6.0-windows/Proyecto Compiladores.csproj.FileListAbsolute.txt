@@ -1,0 +1,56 @@
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.exe
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.deps.json
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.runtimeconfig.json
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Form1.resources
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfoInputs.cache
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfo.cs
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\refint\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.genruntimeconfig.cache
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\ref\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\Interfaces\Parcial01\Tareas\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.exe
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.deps.json
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.runtimeconfig.json
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Form1.resources
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfoInputs.cache
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfo.cs
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\refint\Proyecto Compiladores.dll
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.genruntimeconfig.cache
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\ref\Proyecto Compiladores.dll
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.exe
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.deps.json
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.runtimeconfig.json
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\bin\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Form1.resources
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfoInputs.cache
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.AssemblyInfo.cs
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.dll
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\refint\Proyecto Compiladores.dll
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.pdb
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto Compiladores.genruntimeconfig.cache
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\ref\Proyecto Compiladores.dll
+C:\Users\52483\Documents\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Form2.resources
+C:\Users\jesic\OneDrive\Documentos\GitHub\Fundamentos-de-Compiladores\Proyecto Compiladores\obj\Debug\net6.0-windows\Proyecto_Compiladores.Form2.resources
